@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/Ivonny95ter/FBI/blob/main/Plantillas/FBI.PNG" align="center" height="325" width="470"></p>
+<p align="center"><img src="https://github.com/Ivonny95ter/Doxrut/blob/main/Plantilla/Plantillas.png" align="center" height="325" width="470"></p>
 
 ### Acerca de
 El algoritmo de Doxrut permite enontrar la información referente a una personas en la red. La información a obtener es la siguiente:
